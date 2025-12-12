@@ -128,8 +128,9 @@ npm test
 
 ## Related Projects
 
-- [pearpass-app-desktop](https://github.com/tetherto/pearpass-app-desktop) - A mobile app for PearPass, a password manager
+- [pearpass-app-desktop](https://github.com/tetherto/pearpass-app-desktop) - A desktop app for PearPass, a password manager
 - [pearpass-app-mobile](https://github.com/tetherto/pearpass-app-mobile) - A mobile app for PearPass, a password manager
+- [pearpass-app-browser-extension](https://github.com/tetherto/pearpass-app-browser-extension) - A nrowser extension app for PearPass, a password manager
 - [tether-dev-docs](https://github.com/tetherto/tether-dev-docs) - Documentations and guides for developers
 
 ## License
